@@ -6,7 +6,7 @@
       "maxonline": 1000,
       "name": "RED",
       "online": 2,
-      "connector": 0
+      "сonnector": 0
     },
     {
       "action": true,
@@ -15,6 +15,6 @@
       "maxonline": 1000,
       "name": "YELLOW",
       "online": 2,
-      "connector": 1
+      "сonnector": 1
     }
   ]
